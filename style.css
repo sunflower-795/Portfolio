@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(220, 220, 245);
+
+}
+h1{
+    color:blanchedalmond;
+    background-color: black;
+    text-align: center;
+}
+h2{
+   color: rgb(205, 159, 50); 
+}
+p{
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
+b{
+    color: rgb(244, 173, 6);
+}
